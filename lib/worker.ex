@@ -54,6 +54,6 @@ defmodule Metex.Worker do
   end
 
   defp apikey do
-    "edca65d0d5577660c752f47a08b32d36"
+    "your openweathermap api key here "
   end
 end
